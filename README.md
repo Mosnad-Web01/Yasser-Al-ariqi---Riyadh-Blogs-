@@ -1,56 +1,34 @@
-# BONUS: Riyadh Blog
+# Riyadh Blog
 
-## Learning Goals
+This project involves creating an HTML structure and CSS styling based on a given mockup image.
 
-- Create an HTML structure for an existing mockup
+## Live Demo
 
-## Introduction
+Check out the live version of the project [here](https://mosnad-web01.github.io/Yasser-Al-ariqi---Riyadh-Blogs-/).
 
-Web developers are often asked to work from a mockup of a potential webpage,
-generally referred to as either a `mockup` or `comp`. In this lab, you'll be
-asked to use a mockup image, source text and images, and create an HTML
-structure that mirrors the mockup image.
+## Design Preview
 
-## Getting Started
+![Design Preview](./MOCKUP.jpg)
 
-**Fork and clone** this lesson into your local environment. Navigate into its
-directory in the terminal, then run `code .` to open the files in Visual Studio
-Code.
+## Installation
 
-## Create an HTML Structure for an Existing Mockup
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/Mosnad-Web01/Yasser-Al-ariqi---Riyadh-Blogs-.git
+    ```
 
-### Process
+2. **Navigate to the project directory:**
+    ```bash
+    cd riyadh-blog
+    ```
 
-In the `index.html` file, use the comments in the code to place the content from
-`SOURCE.md` in the proper locations. The image file
-[`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can be
-used as a reference to build the `index.html` page as it appears.
+3. **Open the project in your code editor:**
+    ```bash
+    code .
+    ```
 
-Open `index.html` in a separate browser tab to see your progress as you work.
-Run `npm test` as you go to see test results.
+4. **Open `index.html` in your web browser to view the project.**
 
-### Bonus
+## Note
 
-Use CSS in the `style.css` file in the `css` folder to change different aspects
-about your page such as:
-
-- font color
-- font size
-- font family
-- change the background image to a color
-- change the background color to a gradient
-
-You can also try modifying these styles on-the-fly by modifying them with the
-[developer tools] of your [browser].
-
-You might think: "BUT I DON'T KNOW CSS" (_very well_ or _at all_). Developers
-_constantly_ encounter this feeling. Since developers are constantly learning,
-we try to keep the commands as simple as possible. You might know more than you
-think! What happens if you change `red` to `green`? What do you expect? How
-would you validate your guess? Developers usually call this process "trying
-stuff" or "messing around" or "playing with stuff." While all those phrases
-sound like a joke, what they mean to say is that they're using the Scientific
-Method to validate their guesses into building a model.
-
-It's possibly the most powerful learning technique possible. Toddlers and
-puppies are amazing at it!
+This is a challenge project, not built by me.
